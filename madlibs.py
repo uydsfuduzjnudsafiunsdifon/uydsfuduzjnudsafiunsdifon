@@ -1,0 +1,10 @@
+
+print("enter noun")
+noun1=input()
+print("enter noun")
+noun2=input()
+print("enter noun")
+noun3=input()
+print("enter noun")
+noun4=input()
+print("jack was going to a "+noun1+" when he got there he was given a "+noun2+" he was sitting down when he decided to start "+noun3+" later that night he went home and "+noun4)
